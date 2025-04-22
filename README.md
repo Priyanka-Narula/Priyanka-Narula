@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I’m Priyanka Narula
+
+💡 *Interests*: Neural Networks,Deep Learning, AI/ML, Web Development  
+📚 *I’m currently learning*: LLMs,CNN,RAG Models, Data Engineering, Full-Stack Dev (Flask + React)  
+🛠  *Skills*: Machine Learning, NLP, Data Analytics, Python, SQL, Web Dev  
+👯 *I’m looking to collaborate on*: AI/ML projects, Data Science, Optimization, Web Apps  
+📫 *Reach Me*: [GitHub](https://github.com/Priyanka-Narula)  
+
+
 
 <!--
 **Priyanka-Narula/Priyanka-Narula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
