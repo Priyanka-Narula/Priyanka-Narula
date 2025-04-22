@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Priyanka Narula
+ 👋 Hi, I’m Priyanka 
 
 💡 *Interests*: Neural Networks,Deep Learning, AI/ML, Web Development  
 📚 *I’m currently learning*: LLMs,CNN,RAG Models, Data Engineering, Full-Stack Dev (Flask + React)  
