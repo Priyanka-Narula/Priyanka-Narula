@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Priyanka
 
-💡 **Interests**: Neural Networks, Deep Learning, AI/ML, Web Development  
+💡 **Interests**: AI/ML, Neural Networks, Deep Learning,  Web Development  
 📚 **Currently Learning**: LLMs, CNNs, RAG Models, Data Engineering, Full-Stack Development (Flask + React)  
 🛠 **Skills**: Machine Learning, NLP, Data Analytics, Python, SQL, Web Development  
 👯 **Looking to Collaborate On**: AI/ML Projects, Data Science, Optimization Problems, and Web Apps  
