@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Priyanka
+## 👋 Hi, I’m Priyanka
 
 💡 **Interests**: Neural Networks, Deep Learning, AI/ML, Web Development  
 📚 **Currently Learning**: LLMs, CNNs, RAG Models, Data Engineering, Full-Stack Development (Flask + React)  
